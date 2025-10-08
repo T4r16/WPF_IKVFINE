@@ -1,7 +1,7 @@
 # IKV Optimization – Code Showcase
 
 This repo displays the Python source for an optimization script.
-**Viewing only** — no environment is needed to read the code in GitHub.
+storage was commented out but can be used.
 
 ## What it uses (if you want to run it)
 - Python 3.x
